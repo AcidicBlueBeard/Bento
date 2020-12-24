@@ -30,7 +30,9 @@ themeToggle.addEventListener('click', () => {
         disableDark();
     }
 });
-
+{
+    enableDark();
+}
 // Change the theme with the time
 
 // const today = new Date();
